@@ -1,6 +1,6 @@
 ---
 <div align="center">
-	<p align="left"><b>Hi! Welcome to my GitHub profile page<b></p>
+	<img src="https://api.itsakaseru.me/github/welcome.svg" height="38px" align="left" />
 	<img src="https://api.itsakaseru.me/github/" align="right" />
 	<br/>
 	<br/>
