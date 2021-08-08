@@ -21,4 +21,6 @@
 <div align="middle">
     Collab Art by <a href="https://twitter.com/kurobako_BB">クロ箱</a>
 </div>
-<br />
+
+---
+
