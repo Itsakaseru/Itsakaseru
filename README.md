@@ -1,6 +1,6 @@
 ---
 <div align="center">
-	<img src="https://api.itsakaseru.me/github/welcome.svg" height="37px" align="left" />
+	<p align="left"><b>Hi! Welcome to my GitHub profile page<b></p>
 	<img src="https://api.itsakaseru.me/github/" align="right" />
 	<br/>
 	<br/>
@@ -19,6 +19,6 @@
 	<a href="https://github.com/Andrioeffendi31">Kuma</a>
 </div>
 <div align="middle">
-	Collab Art by <a href="https://twitter.com/kurobako_BB">クロ箱</a>
+    Collab Art by <a href="https://twitter.com/kurobako_BB">クロ箱</a>
 </div>
 <br />
