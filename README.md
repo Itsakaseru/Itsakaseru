@@ -1,10 +1,4 @@
 ---
-<div align="center">
-	<img src="https://api.itsakaseru.me/github/welcome.svg" height="38px" align="left" />
-	<img src="https://api.itsakaseru.me/github?username=itsakaseru" align="right" />
-	<br/>
-	<br/>
-</div>
 
 <div align="middle">
 	<br/>
