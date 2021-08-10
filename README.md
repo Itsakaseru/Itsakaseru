@@ -1,6 +1,6 @@
 ---
 <div align="middle">
-    <a href="https://itsakaseru.me"><img src="https://api.itsakaseru.me/itsakaserume.svg" height="38px" /></a>     <a href="https://skyencripttion.com"><img src="https://api.itsakaseru.me/skyencripttioncom.svg" height="38px" /></a>     <a href="https://www.linkedin.com/in/itsakaseru/"><img src="https://api.itsakaseru.me/linkedin.svg" height="38px" /></a>     <a href="https://twitter.com/Itsakaseru"><img src="https://api.itsakaseru.me/twitter.svg" height="38px" /></a>     <a href="https://www.youtube.com/c/Itsakaseru"><img src="https://api.itsakaseru.me/youtube.svg" height="38px" /></a>     <a href="https://www.instagram.com/itsakaseru/"><img src="https://api.itsakaseru.me/instagram.svg" height="38px" /></a>
+    <a href="https://itsakaseru.me"><img src="https://api.itsakaseru.me/itsakaserume.svg" height="38px" /></a>     <a href="https://skyencripttion.com"><img src="https://api.itsakaseru.me/skyencripttioncom.svg" height="38px" /></a>     <a href="https://www.linkedin.com/in/itsakaseru/"><img src="https://api.itsakaseru.me/linkedin.svg" height="38px" /></a>     <a href="https://twitter.com/Itsakaseru"><img src="https://api.itsakaseru.me/twitter.svg" height="38px" /></a>     <a href="https://www.youtube.com/c/Itsakaseru"><img src="https://api.itsakaseru.me/youtube.svg" height="38px" /></a>
 	<br/>
 	<br/>
     <img src="https://api.itsakaseru.me/github/itsakaseru" height="38px" />
