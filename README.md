@@ -1,4 +1,10 @@
 ---
+<div align="middle">
+<img src="https://api.itsakaseru.me/itsakaserume.svg" height="38px" />     <img src="https://api.itsakaseru.me/skyencripttioncom.svg" height="38px" />     <img src="https://api.itsakaseru.me/linkedin.svg" height="38px" />     <img src="https://api.itsakaseru.me/twitter.svg" height="38px" />     <img src="https://api.itsakaseru.me/youtube.svg" height="38px" />     <img src="https://api.itsakaseru.me/instagram.svg" height="38px" />
+	<br/>
+	<br/>
+<img src="https://api.itsakaseru.me/github/itsakaseru" height="38px" />
+</div>
 
 <div align="middle">
 	<br/>
@@ -17,4 +23,3 @@
 </div>
 
 ---
-
