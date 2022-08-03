@@ -1,6 +1,6 @@
 ---
 <pre align="left">
-<a href="https://skyencripttion.com"><img src="https://api.itsakaseru.me/public/skyencripttion.svg">  </a><a href="https://itsakaseru.me"><img src="https://api.itsakaseru.me/public/itsakaseru.svg"></a>  <a href="https://linkedin.com/in/itsakaseru"><img src="https://api.itsakaseru.me/public/linkedin.svg"></a>  <a href="https://twitter.com/itsakaseru"><img src="https://api.itsakaseru.me/public/twitter.svg"></a>  <a href="https://github.com/itsakaseru"><img src="https://api.itsakaseru.me/github/itsakaseru"></a>
+<a title="SkyEncripttion Website" href="https://skyencripttion.com"><img src="https://api.itsakaseru.me/public/skyencripttion.svg"></a>  <a title="Personal Website" href="https://itsakaseru.me"><img src="https://api.itsakaseru.me/public/itsakaseru.svg"></a>  <a title="LinkedIn" href="https://linkedin.com/in/itsakaseru"><img src="https://api.itsakaseru.me/public/linkedin.svg"></a>  <a title="Twitter" href="https://twitter.com/itsakaseru"><img src="https://api.itsakaseru.me/public/twitter.svg"></a>  <a title="Profile View Count" href="https://github.com/itsakaseru"><img src="https://api.itsakaseru.me/github/itsakaseru"></a>
 </pre>
 
 <div align="middle">
