@@ -15,3 +15,8 @@
 <div align="middle">
 	Collab Art by <a href="https://www.pixiv.net/en/users/361359">あじゃぱ</a>
 </div>
+
+#
+
+### Past Collab
+- [The Idolmaster: Million Live!](https://github.com/Itsakaseru/Itsakaseru/tree/637eeec564fff0210698e6751e43a15948e3e247) (08/2021)
