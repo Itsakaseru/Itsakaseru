@@ -1,0 +1,111 @@
+/*
+Itsakaseru - VSCode Customization
+Version 1.0.0
+
+**Use Custom CSS and JS Loader Extension
+*/
+
+/* Title bar and Tabs */
+.titlebar-drag-region {
+    border-bottom: none !important;
+}
+
+.tabs-container {
+    margin: 0 5px !important;
+}
+
+.tabs-and-actions-container {
+    margin: 7px 0 !important;
+}
+
+/* Breadcrumbs */
+.breadcrumbs-control {
+    height: 30px !important;
+}
+
+.monaco-breadcrumbs {
+    height: 30px !important;
+}
+
+.monaco-workbench .monaco-list:not(.element-focused):focus:before {
+    outline: none !important;
+}
+
+.tabs-breadcrumbs .monaco-icon-label {
+    background-color: var(--vscode-quickInputList-focusBackground) !important;
+    padding: 3px 10px !important;
+    border-radius: 0.25rem !important;
+}
+
+/* Tabs Appearance */
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container {
+    height: 37px !important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab {
+    padding-right: 5px !important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container.active>.title .tabs-container>.tab:hover {
+    background: var(--vscode-quickInputList-focusBackground) !important;
+}
+
+.tab {
+    margin: 0 3px !important;
+    border-radius: 7px !important;
+    --tab-border-bottom-color: transparent !important;
+    --tab-border-top-color: transparent !important;
+}
+
+.tab.active {
+    background: rgba(255, 255, 255, 0.05) !important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container.active>.title .tabs-container>.tab:hover>.tab-border-bottom-container {
+    display: none !important;
+    height: 0px !important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container.active>.title .tabs-container>.tab>.tab-border-bottom-container {
+    display: none !important;
+    height: 0px !important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container.active>.title .tabs-container>.tab>.tab-border-top-container {
+    display: none !important;
+    height: 0px !important;
+}
+
+/* Command Palette */
+.quick-input-widget {
+    margin: 10% auto !important;
+}
+
+.monaco-inputbox .idle {
+    border: none !important;
+}
+
+.monaco-inputbox input[type=text]:focus {
+    outline-style: none !important;
+}
+
+.monaco-findInput .synthetic-focus {
+    outline-style: none !important;
+}
+
+.monaco-inputbox input {
+    font-size: 15px !important;
+}
+
+.quick-input-and-message {
+    padding: 5px 3px !important;
+}
+
+/* Sidebar */
+.pane-body .monaco-scrollable-element.mac {
+    padding: 2px 5px !important;
+}
+
+.monaco-list-row {
+    border-radius: 0.25rem !important;
+}
