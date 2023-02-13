@@ -19,12 +19,13 @@ Version 1.0.0
 }
 
 /* Breadcrumbs */
-.breadcrumbs-control {
-    height: 30px !important;
-}
 
 .monaco-breadcrumbs {
     height: 30px !important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container .breadcrumbs-control:not(.hidden) {
+    height: 38px !important;
 }
 
 .monaco-workbench .monaco-list:not(.element-focused):focus:before {
@@ -102,10 +103,14 @@ Version 1.0.0
 }
 
 /* Sidebar */
-.pane-body .monaco-scrollable-element.mac {
-    padding: 2px 5px !important;
+.monaco-list-row {
+    border-radius: 0.25rem !important;
 }
 
-.monaco-list-row {
+.suggest-input-container {
+    border-radius: 0.25rem !important;
+}
+
+.monaco-button.monaco-text-button {
     border-radius: 0.25rem !important;
 }
