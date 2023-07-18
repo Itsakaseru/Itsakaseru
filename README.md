@@ -4,7 +4,7 @@
 
 <div align="middle">
 	<br/>
-	<a href="https://github.com/Itsakaseru"><img style="height: 27vw;" src="collab/2022/04/Itsakaseru.jpg"></a><a href="https://github.com/shigeru22"><img style="height: 27vw;" src="collab/2022/04/Shigeru.jpg"></a>
+	<a href="https://github.com/Itsakaseru"><img style="height: 27vw;" src="collab/2023/07/Itsakaseru.png"></a><a href="https://github.com/shigeru22"><img style="height: 27vw;" src="collab/2023/07/Shigeru.png"></a>
 </div>
 <br />
 <div align="middle">
@@ -12,7 +12,7 @@
 	<a href="https://github.com/shigeru22">shigeru22</a>
 </div>
 <div align="middle">
-	Collab Art by <a href="https://www.pixiv.net/en/users/361359">あじゃぱ</a>
+	Collab Art by <a href="https://twitter.com/ah_hahauccu/status/1560743022131679232">RiTA</a>
 </div>
 
 #
@@ -30,6 +30,7 @@ Oh, other than doing dev stuff. I also do [gaming and streaming](https://www.you
 #
 
 ### Past Collab
+- [Love Live! Nijigasaki Gakuen School Idol Doukoukai](https://github.com/Itsakaseru/Itsakaseru/tree/7038aa9ec51491f1041182fbb4d685bd8ad83a26) (04/2022)
 - [The Idolmaster: Million Live!](https://github.com/Itsakaseru/Itsakaseru/tree/637eeec564fff0210698e6751e43a15948e3e247) (08/2021)
 
  <!--- Invisible Space -->
