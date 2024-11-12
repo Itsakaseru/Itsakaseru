@@ -19,7 +19,7 @@
 
 ### Introduction
 Hi! My name is Lemuel and you can called me Lemi or Sakii, I love anything related to tech. <br />
-You can find more about me in my [personal website](https://itsakaseru.me/aboutme).
+You can find more about me in my [personal website](https://itsakaseru.me/about).
 
 #
 
