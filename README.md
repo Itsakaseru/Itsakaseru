@@ -1,5 +1,5 @@
 <pre align="left">
-<a title="SkyEncripttion Website" href="https://skyencripttion.com"><img src="images/skyencripttion.svg"></a>  <a title="Personal Website" href="https://itsakaseru.me"><img src="images/itsakaseru.svg"></a>  <a title="LinkedIn" href="https://linkedin.com/in/itsakaseru"><img src="images/linkedin.svg"></a>  <a title="Twitter" href="https://twitter.com/itsakaseru"><img src="images/twitter.svg"></a>  <!--<a title="Profile View Count" href="https://github.com/itsakaseru"><img src="https://api.itsakaseru.me/github/itsakaseru"></a>-->
+<a title="Personal Website" href="https://itsakaseru.me"><img src="images/itsakaseru.svg"></a>  <a title="SkyEncripttion Website" href="https://skyencripttion.com"><img src="images/skyencripttion.svg"></a>  <a title="LinkedIn" href="https://linkedin.com/in/itsakaseru"><img src="images/linkedin.svg"></a>  <a title="Youtube (Itsakaseru)" href="https://www.youtube.com/@Itsakaseru"><img src="images/youtube.svg"></a>  <a title="Youtube (SkyEncripttion)" href="https://www.youtube.com/@SkyEncripttion"><img src="images/youtube.svg"></a>  <a title="Bluesky (Itsakaseru)" href="https://bsky.app/profile/itsakaseru.me"><img src="images/bluesky.svg"></a>  <a title="Bluesky (SkyEncripttion)" href="https://bsky.app/profile/skyencripttion.com"><img src="images/bluesky.svg"></a>
 </pre>
 
 <div align="middle">
